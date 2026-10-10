@@ -1,9 +1,9 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # runs every day at 18:00 UTC
+  schedule:
     - cron: "0 18 * * *"
-  workflow_dispatch: # lets you run it manually
+  workflow_dispatch:
 
 permissions:
   contents: write
