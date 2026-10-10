@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Guru - AI Developer"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/hero.svg" width="100%" alt="Guru - AI Developer"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7EE7FF&center=true&vCenter=true&width=780&lines=Hi%2C+I'm+Guru+%F0%9F%91%8B;I+build+AI+that+listens%2C+sees+and+investigates;Voice+AI+%7C+Health+AI+%7C+Fraud+Detection+%7C+Agents;From+a+campus+Foodie+Bot+to+full+AI+systems+%F0%9F%9A%80" alt="Typing SVG"/>
@@ -16,27 +16,27 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-projects.svg" width="100%" alt="Projects"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/h-projects.svg" width="100%" alt="Projects"/>
 
 <div align="center">
 
-<a href="https://github.com/Guru1315/AI-Voice-Customer"><img src="./assets/card-1.svg" width="32%" alt="AI Voice Customer"/></a>
-<a href="https://github.com/Guru1315/AI-Health"><img src="./assets/card-2.svg" width="32%" alt="AI Health"/></a>
-<a href="https://github.com/Guru1315/AI-Fraud-Investigator"><img src="./assets/card-3.svg" width="32%" alt="AI Fraud Investigator"/></a>
+<a href="https://github.com/Guru1315/AI-Voice-Customer"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-1.svg" width="32%" alt="AI Voice Customer"/></a>
+<a href="https://github.com/Guru1315/AI-Health"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-2.svg" width="32%" alt="AI Health"/></a>
+<a href="https://github.com/Guru1315/AI-Fraud-Investigator"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-3.svg" width="32%" alt="AI Fraud Investigator"/></a>
 
-<a href="https://github.com/Guru1315/AI-Personal-Agent"><img src="./assets/card-4.svg" width="32%" alt="AI Personal Agent"/></a>
-<a href="https://github.com/Guru1315/Foodie-Bot"><img src="./assets/card-5.svg" width="32%" alt="Foodie Bot"/></a>
-<a href="https://github.com/Guru1315/AI_Image_Caption_Generator"><img src="./assets/card-6.svg" width="32%" alt="Image Caption Generator"/></a>
+<a href="https://github.com/Guru1315/AI-Personal-Agent"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-4.svg" width="32%" alt="AI Personal Agent"/></a>
+<a href="https://github.com/Guru1315/Foodie-Bot"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-5.svg" width="32%" alt="Foodie Bot"/></a>
+<a href="https://github.com/Guru1315/AI_Image_Caption_Generator"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-6.svg" width="32%" alt="Image Caption Generator"/></a>
 
-<a href="https://github.com/Guru1315/AI-Resume-Screening-System"><img src="./assets/card-7.svg" width="32%" alt="Resume Screening"/></a>
+<a href="https://github.com/Guru1315/AI-Resume-Screening-System"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-7.svg" width="32%" alt="Resume Screening"/></a>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-stack.svg" width="100%" alt="Tech Stack"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/h-stack.svg" width="100%" alt="Tech Stack"/>
 
 <div align="center">
 
@@ -54,29 +54,29 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-focus.svg" width="100%" alt="Focus Areas"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/h-focus.svg" width="100%" alt="Focus Areas"/>
 
 <div align="center">
-<img src="./assets/focus.svg" width="100%" alt="NLP, Computer Vision, Voice AI, Fraud and Safety"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/focus.svg" width="100%" alt="NLP, Computer Vision, Voice AI, Fraud and Safety"/>
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-graph.svg" width="100%" alt="3D Activity"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/h-graph.svg" width="100%" alt="3D Activity"/>
 
 <div align="center">
 
-<img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution graph"/>
 
 <img src="https://raw.githubusercontent.com/Guru1315/Guru1315/output/github-snake-dark.svg" width="100%" alt="Snake eating contributions"/>
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-stats.svg" width="100%" alt="GitHub Stats"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/h-stats.svg" width="100%" alt="GitHub Stats"/>
 
 <div align="center">
 
@@ -89,9 +89,9 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-contact.svg" width="100%" alt="Let's Connect"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/h-contact.svg" width="100%" alt="Let's Connect"/>
 
 <div align="center">
 
@@ -101,12 +101,12 @@
 
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt=""/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/divider.svg" width="100%" alt=""/>
 
-<img src="./assets/h-about.svg" width="100%" alt="About Me"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/h-about.svg" width="100%" alt="About Me"/>
 
 <div align="center">
-<img src="./assets/devcard.svg" width="100%" alt="About Guru - developer card"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/devcard.svg" width="100%" alt="About Guru - developer card"/>
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt="Thanks for visiting"/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/footer.svg" width="100%" alt="Thanks for visiting"/>
