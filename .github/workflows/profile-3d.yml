@@ -27,4 +27,3 @@ jobs:
           git add -A .
           git commit -m "Update 3D contribution graph" || echo "No changes"
           git push
-
