@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 76" width="320" height="76" font-family="Inter,'Segoe UI',Helvetica,Arial,sans-serif"><style>@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+.sw{animation:sw 4s ease-in-out infinite} @keyframes sw{0%{transform:translateX(-120px) skewX(-20deg)}60%,100%{transform:translateX(420px) skewX(-20deg)}}
+.rg{transform-box:fill-box;transform-origin:center;animation:rg 2.8s ease-out infinite} @keyframes rg{0%{transform:scale(.8);opacity:.8}100%{transform:scale(1.35);opacity:0}}
+</style>
+<defs><linearGradient id="b" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="320" y2="76"><stop offset="0" stop-color="#FF5E7E"/><stop offset=".5" stop-color="#FF5E7E" stop-opacity=".15"/><stop offset="1" stop-color="#FF5E7E"/>
+<animateTransform attributeName="gradientTransform" type="rotate" values="0 160.0 38.0;360 160.0 38.0" dur="6s" repeatCount="indefinite"/></linearGradient>
+<clipPath id="k"><rect x="2" y="2" width="316" height="72" rx="36.0"/></clipPath></defs>
+<rect x="2" y="2" width="316" height="72" rx="36.0" fill="#0a111c"/>
+<g clip-path="url(#k)"><rect class="sw" width="60" height="76" fill="#fff" fill-opacity=".08"/></g>
+<rect x="2" y="2" width="316" height="72" rx="36.0" fill="none" stroke="url(#b)" stroke-width="2.2"/>
+<circle class="rg" cx="48" cy="38" r="22" fill="none" stroke="#FF5E7E" stroke-width="2"/>
+<circle cx="48" cy="38" r="22" fill="#FF5E7E" fill-opacity=".16" stroke="#FF5E7E" stroke-opacity=".8"/>
+<text x="48" y="44" text-anchor="middle" font-family="'Fira Code','JetBrains Mono',Consolas,Menlo,monospace" font-size="19" font-weight="800" fill="#FF5E7E">@</text>
+<text x="86" y="46" font-size="22" font-weight="800" fill="#f4f9ff">Email me</text>
+<text x="286" y="46" font-size="22" font-weight="800" fill="#FF5E7E">↗</text></svg>
