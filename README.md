@@ -22,15 +22,15 @@
 
 <div align="center">
 
-<a href="https://github.com/Guru1315/AI-Voice-Customer"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-1.svg" width="32%" alt="AI Voice Customer"/></a>
-<a href="https://github.com/Guru1315/AI-Health"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-2.svg" width="32%" alt="AI Health"/></a>
-<a href="https://github.com/Guru1315/AI-Fraud-Investigator"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-3.svg" width="32%" alt="AI Fraud Investigator"/></a>
+<a href="https://github.com/Guru1315/AI-Voice-Customer-Support"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-1.svg" width="32%" alt="AI Voice Customer"/></a>
+<a href="https://github.com/Guru1315/AI-Health-Agent"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-2.svg" width="32%" alt="AI Health"/></a>
+<a href="https://github.com/Guru1315/AI-Fraud-Investigation"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-3.svg" width="32%" alt="AI Fraud Investigator"/></a>
 
 <a href="https://github.com/Guru1315/AI-Personal-Agent"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-4.svg" width="32%" alt="AI Personal Agent"/></a>
-<a href="https://github.com/Guru1315/Foodie-Bot"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-5.svg" width="32%" alt="Foodie Bot"/></a>
+<a href="https://github.com/Guru1315/AI-Chatbot_Saveetha_Foodie_bot"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-5.svg" width="32%" alt="Foodie Bot"/></a>
 <a href="https://github.com/Guru1315/AI_Image_Caption_Generator"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-6.svg" width="32%" alt="Image Caption Generator"/></a>
 
-<a href="https://github.com/Guru1315/AI-Resume-Screening-System"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-7.svg" width="32%" alt="Resume Screening"/></a>
+<a href="https://github.com/Guru1315/AI_Resume_screening_system"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-7.svg" width="32%" alt="Resume Screening"/></a>
 
 </div>
 
