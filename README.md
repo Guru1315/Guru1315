@@ -32,6 +32,10 @@
 
 <a href="https://github.com/Guru1315/AI_Resume_screening_system"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/card-7.svg" width="32%" alt="Resume Screening"/></a>
 
+<br/><br/>
+
+<a href="https://github.com/Guru1315?tab=repositories"><img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/lab-terminal.svg" width="100%" alt="Terminal listing recent repos: DAILY_PROJECTS_OF_ML-ALGORITHMS, ITA-0604-192524434-ML, Spam-detection_Using_ML, Mini-AI-Software-Dev-Team-, Develop-Team, Kaapi_Kadai"/></a>
+
 </div>
 
 <img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/divider.svg" width="100%" alt=""/>
@@ -39,6 +43,10 @@
 <img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/h-stack.svg" width="100%" alt="Tech Stack"/>
 
 <div align="center">
+
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/marquee.svg" width="100%" alt="Scrolling list of tools: Python, PyTorch, TensorFlow, scikit-learn, Pandas, NumPy, Hugging Face and more"/>
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,pandas,numpy,mysql,git&theme=dark&perline=8" alt="skills row 1"/>
 <br/>
@@ -95,8 +103,10 @@
 
 <div align="center">
 
+<!-- Add these back once you have real links:
 <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+-->
 <a href="https://github.com/Guru1315"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>

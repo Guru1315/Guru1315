@@ -17,6 +17,8 @@ The images used by the profile [README](../README.md). They are all SVG files an
 | `h-about.svg` | "About Me" heading |
 | `devcard.svg` | The developer card under "About Me" |
 | `footer.svg` | Closing image at the bottom |
+| `marquee.svg` | Scrolling strip of tools under the "Tech Stack" heading |
+| `lab-terminal.svg` | Animated terminal listing recent repos, under the project cards |
 
 ## Related folders
 
