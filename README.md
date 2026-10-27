@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/banner.svg" width="100%" alt="Hi, I'm Guru. AI Developer."/>
+<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/main/assets/banner.svg" width="100%" alt="Guru Charan M, AI Developer"/>
 
 <br/>
 
