@@ -46,4 +46,4 @@ More on my [repositories page](https://github.com/Guru1315?tab=repositories).
 - LinkedIn: [guru-charan-m](https://www.linkedin.com/in/guru-charan-m-436b26435)
 - Email: [gurumurugan291@gmail.com](mailto:gurumurugan291@gmail.com)
 
-##The magic you`re looking for is in the work you`re Avoiding
+##The magic you`re looking for is in the work youre Avoiding
