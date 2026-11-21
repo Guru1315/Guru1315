@@ -1,14 +1,16 @@
 # Assets
 
-The image used by the profile [README](../README.md).
+Images used by the profile [README](../README.md). They are loaded by relative path, so **renaming or moving one breaks it on the profile**.
 
 | File | Used for |
 |---|---|
-| `banner.svg` | Top banner: "Hi, I'm Guru" with a typing line that cycles through three short descriptions |
+| `intro.webp` | Top intro: a white 3D cat pops onto a stage, dances, then steps aside and waves while "Hi there, I'm Guru Charan" appears. An 8-second looping animated WebP (960×480, 15 fps), rendered from a three.js scene. |
+| `work-perfume.jpg`, `work-lays.jpg`, `work-movade.jpg`, `work-arena.jpg` | Screenshots on the "Immersive web" cards (480×300). |
+| `banner.svg` | The old typing-line banner. No longer shown; kept in case it is wanted back. |
 
-It is loaded through its `raw.githubusercontent.com` address, so **renaming or moving it breaks the banner on the profile**. To change the text, edit the `<text>` lines in the file.
+GitHub only shows images in a README (no scripts or video players), which is why the intro is an animated WebP rather than a live 3D scene. To change the intro, re-render the scene and replace `intro.webp` with a file of the same name.
 
 ## Related folders
 
-- `../profile-3d-contrib/` holds 3D contribution graphs generated daily by the *GitHub-Profile-3D-Contrib* workflow. The profile no longer shows them.
-- The *Generate Snake* workflow publishes a snake animation to the `output` branch every 12 hours. The profile no longer shows it.
+- `../profile-3d-contrib/` holds 3D contribution graphs generated daily by the *GitHub-Profile-3D-Contrib* workflow. The README shows `profile-night-rainbow.svg`.
+- The *Generate Snake* workflow publishes a snake animation to the `output` branch every 12 hours. The README shows `github-snake-dark.svg` from that branch.
