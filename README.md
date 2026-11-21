@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://www.gurucharan.me"><img src="assets/intro.webp" width="100%" alt="A white 3D cat pops onto a glowing stage, dances to music notes, then steps aside and waves while the intro appears: Hi there, I'm Guru Charan, AI Engineer and ML Engineer, building RAG apps, AI agents, machine learning and 3D web, at gurucharan.me"/></a>
+<a href="https://www.gurucharan.me"><img src="assets/intro.webp" width="100%" alt="A real white kitten drops into a spotlight, sways to floating music notes, then hops aside and says meow while the intro appears: Hi there, I'm Guru Charan, AI Engineer and ML Engineer, building RAG apps, AI agents, machine learning and 3D web, at gurucharan.me"/></a>
 
 <br/>
 
@@ -110,14 +110,6 @@
 <img src="https://img.shields.io/badge/Blender-E87D0D?style=flat-square&logo=blender&logoColor=white" alt="Blender"/>
 <img src="https://img.shields.io/badge/Higgsfield-1A1818?style=flat-square" alt="Higgsfield"/>
 <img src="https://img.shields.io/badge/Excel-217346?style=flat-square" alt="Excel"/>
-
-## 📈 GitHub activity
-
-<div align="center">
-<img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D graph of my GitHub contributions over the last year"/>
-<br/><br/>
-<img src="https://raw.githubusercontent.com/Guru1315/Guru1315/output/github-snake-dark.svg" width="100%" alt="A snake eating my GitHub contribution grid"/>
-</div>
 
 ## 🗂️ More projects
 
