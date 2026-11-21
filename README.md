@@ -1,9 +1,5 @@
 <div align="center">
 
-<a href="https://www.gurucharan.me"><img src="assets/intro.webp" width="100%" alt="A real white kitten drops into a spotlight, sways to floating music notes, then hops aside and says meow while the intro appears: Hi there, I'm Guru Charan, AI Engineer and ML Engineer, building RAG apps, AI agents, machine learning and 3D web, at gurucharan.me"/></a>
-
-<br/>
-
 <a href="https://www.gurucharan.me"><img src="https://img.shields.io/badge/Portfolio-gurucharan.me-8C2A3C?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio: gurucharan.me"/></a>
 <a href="https://www.gurucharan.me/Guru-Charan-Resume.pdf"><img src="https://img.shields.io/badge/Résumé-Download-C9935E?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Download résumé"/></a>
 <a href="https://www.linkedin.com/in/guru-charan-m-436b26435"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge" alt="LinkedIn"/></a>
